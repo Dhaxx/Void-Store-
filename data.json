@@ -1,0 +1,14 @@
+[
+    {
+        "codigo": 1,
+        "nome": "Caneta Multi",
+        "descricao": "Caneta com V\u00e1rias Cores",
+        "valor": 4.5
+    },
+    {
+        "codigo": 2,
+        "nome": "Borracha",
+        "descricao": "Borracha Duas Faces",
+        "valor": 0.5
+    }
+]
